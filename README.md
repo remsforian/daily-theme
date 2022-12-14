@@ -4,4 +4,11 @@ This program is designed to track your yearly theme on a daily basis. Right now 
 
 How to use:
 
- 
+If you have been using this code already **save the csv file** this is very important. Otherwise you may loose all of your existing data!
+
+Run ``` git pull ``` in the terminal
+
+When you want to do your daily sumbissions run ```python3 entry.py``` when you are in the Daily Theme Directory
+
+That's it! You will need to use the terminal for this. If you are new to using the terminal. Don't worry about it if you are new, I promice it isn't all that complicated. If you need any help don't hesitate to reach out. 
+
