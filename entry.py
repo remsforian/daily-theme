@@ -2,7 +2,7 @@
 from datetime import date
 import csv
 #bring in the csv file
-with open("progress.csv", "w+") as csvfile:
+with open("progress.csv", "a") as csvfile:
 	#begin user inputs (must be integers)
 	print("rate all of these words. Do not input a number greater than 10 or a decimal ")
 	#rate "create" out of 10
