@@ -6,7 +6,7 @@ How to use:
 
 If you have been using this code already **save the csv file** this is very important. Otherwise you may loose all of your existing data!
 
-Run ``` git pull ``` in the terminal
+Run ``` git pull https://github.com/remsforian/daily-theme.git ``` in the terminal
 
 When you want to do your daily sumbissions run ```python3 entry.py``` when you are in the Daily Theme Directory
 
