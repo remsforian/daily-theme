@@ -1,6 +1,12 @@
 #import dependicies
 from datetime import date
 import csv
+import os
+
+#set the directory where csv will go
+
+os.chdir('/home/solmasters/Documents/Code/daily_review')
+
 #bring in the csv file
 with open("progress.csv", "a") as csvfile:
 	#begin user inputs (must be integers)
